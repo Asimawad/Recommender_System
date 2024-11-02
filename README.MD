@@ -172,9 +172,9 @@ The recommendation system uses **collaborative filtering**, which makes predicti
 
 The model minimizes the regularized squared error between predicted and actual ratings:
 
-\[
+$
 \min_{U, V, b_u, b_i} \sum_{(u, i) \in \text{Ratings}} \left( r_{ui} - (\mathbf{u}_u^\top \mathbf{v}_i + b_u + b_i) \right)^2 + \lambda \left( \|\mathbf{u}_u\|^2 + \|\mathbf{v}_i\|^2 \right) + \gamma \left( b_u^2 + b_i^2 \right)
-\]
+$
 
 Where:
 
