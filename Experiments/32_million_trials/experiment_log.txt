@@ -398,3 +398,78 @@
 -**** User Updates Time: 5.44 seconds | Movie Updates Time: 7.27 seconds | - Total Epoch Time: 14.20 seconds ****
 
       
+2024-11-02 23:18:14,682 - INFO - Epoch 1/100 :Train RMSE = 0.8148 --Valid RMSE = 0.8844 |Train loss = 10.4 million -- validation likelihood 2.1 million
+2024-11-02 23:18:14,682 - INFO -  - User Updates  Time: 9.40 seconds
+2024-11-02 23:18:14,682 - INFO -  - Movie Updates Time: 9.03 seconds
+2024-11-02 23:18:14,682 - INFO -  - Total Epoch   Time: 20.29 seconds
+
+2024-11-02 23:18:30,206 - INFO - Epoch 2/100 :Train RMSE = 0.7043 --Valid RMSE = 0.8167 |Train loss = 7.9 million -- validation likelihood 1.9 million
+2024-11-02 23:18:30,207 - INFO -  - User Updates  Time: 5.62 seconds
+2024-11-02 23:18:30,207 - INFO -  - Movie Updates Time: 8.20 seconds
+2024-11-02 23:18:30,207 - INFO -  - Total Epoch   Time: 15.48 seconds
+
+2024-11-02 23:18:44,605 - INFO - Epoch 3/100 :Train RMSE = 0.6690 --Valid RMSE = 0.7970 |Train loss = 7.3 million -- validation likelihood 1.9 million
+2024-11-02 23:18:44,605 - INFO -  - User Updates  Time: 5.40 seconds
+2024-11-02 23:18:44,605 - INFO -  - Movie Updates Time: 7.32 seconds
+2024-11-02 23:18:44,605 - INFO -  - Total Epoch   Time: 14.28 seconds
+
+2024-11-02 23:18:58,934 - INFO - Epoch 4/100 :Train RMSE = 0.6559 --Valid RMSE = 0.7897 |Train loss = 7.0 million -- validation likelihood 1.8 million
+2024-11-02 23:18:58,935 - INFO -  - User Updates  Time: 5.35 seconds
+2024-11-02 23:18:58,935 - INFO -  - Movie Updates Time: 7.46 seconds
+2024-11-02 23:18:58,935 - INFO -  - Total Epoch   Time: 14.29 seconds
+
+2024-11-02 23:19:13,639 - INFO - Epoch 5/100 :Train RMSE = 0.6491 --Valid RMSE = 0.7861 |Train loss = 6.9 million -- validation likelihood 1.8 million
+2024-11-02 23:19:13,639 - INFO -  - User Updates  Time: 5.33 seconds
+2024-11-02 23:19:13,639 - INFO -  - Movie Updates Time: 7.72 seconds
+2024-11-02 23:19:13,639 - INFO -  - Total Epoch   Time: 14.64 seconds
+
+2024-11-02 23:19:28,789 - INFO - Epoch 6/100 :Train RMSE = 0.6450 --Valid RMSE = 0.7840 |Train loss = 6.8 million -- validation likelihood 1.8 million
+2024-11-02 23:19:28,789 - INFO -  - User Updates  Time: 5.40 seconds
+2024-11-02 23:19:28,789 - INFO -  - Movie Updates Time: 8.12 seconds
+2024-11-02 23:19:28,789 - INFO -  - Total Epoch   Time: 15.11 seconds
+
+2024-11-02 23:19:44,731 - INFO - Epoch 7/100 :Train RMSE = 0.6423 --Valid RMSE = 0.7827 |Train loss = 6.8 million -- validation likelihood 1.8 million
+2024-11-02 23:19:44,731 - INFO -  - User Updates  Time: 5.70 seconds
+2024-11-02 23:19:44,731 - INFO -  - Movie Updates Time: 8.68 seconds
+2024-11-02 23:19:44,731 - INFO -  - Total Epoch   Time: 15.90 seconds
+
+2024-11-02 23:19:59,587 - INFO - Epoch 8/100 :Train RMSE = 0.6404 --Valid RMSE = 0.7818 |Train loss = 6.7 million -- validation likelihood 1.8 million
+2024-11-02 23:19:59,595 - INFO -  - User Updates  Time: 5.26 seconds
+2024-11-02 23:19:59,596 - INFO -  - Movie Updates Time: 8.06 seconds
+2024-11-02 23:19:59,596 - INFO -  - Total Epoch   Time: 14.82 seconds
+
+2024-11-02 23:20:15,440 - INFO - Epoch 9/100 :Train RMSE = 0.6390 --Valid RMSE = 0.7812 |Train loss = 6.7 million -- validation likelihood 1.8 million
+2024-11-02 23:20:15,440 - INFO -  - User Updates  Time: 5.51 seconds
+2024-11-02 23:20:15,440 - INFO -  - Movie Updates Time: 8.48 seconds
+2024-11-02 23:20:15,440 - INFO -  - Total Epoch   Time: 15.81 seconds
+
+2024-11-02 23:20:33,152 - INFO - Epoch 10/100 :Train RMSE = 0.6379 --Valid RMSE = 0.7807 |Train loss = 6.7 million -- validation likelihood 1.8 million
+2024-11-02 23:20:33,153 - INFO -  - User Updates  Time: 5.70 seconds
+2024-11-02 23:20:33,153 - INFO -  - Movie Updates Time: 10.29 seconds
+2024-11-02 23:20:33,153 - INFO -  - Total Epoch   Time: 17.67 seconds
+
+2024-11-02 23:20:48,432 - INFO - Epoch 11/100 :Train RMSE = 0.6372 --Valid RMSE = 0.7803 |Train loss = 6.6 million -- validation likelihood 1.8 million
+2024-11-02 23:20:48,432 - INFO -  - User Updates  Time: 5.56 seconds
+2024-11-02 23:20:48,432 - INFO -  - Movie Updates Time: 7.97 seconds
+2024-11-02 23:20:48,432 - INFO -  - Total Epoch   Time: 15.23 seconds
+
+2024-11-02 23:21:03,086 - INFO - Epoch 12/100 :Train RMSE = 0.6365 --Valid RMSE = 0.7801 |Train loss = 6.6 million -- validation likelihood 1.8 million
+2024-11-02 23:21:03,086 - INFO -  - User Updates  Time: 5.53 seconds
+2024-11-02 23:21:03,086 - INFO -  - Movie Updates Time: 7.47 seconds
+2024-11-02 23:21:03,086 - INFO -  - Total Epoch   Time: 14.61 seconds
+
+2024-11-02 23:21:17,274 - INFO - Epoch 13/100 :Train RMSE = 0.6360 --Valid RMSE = 0.7799 |Train loss = 6.6 million -- validation likelihood 1.8 million
+2024-11-02 23:21:17,282 - INFO -  - User Updates  Time: 5.28 seconds
+2024-11-02 23:21:17,282 - INFO -  - Movie Updates Time: 7.43 seconds
+2024-11-02 23:21:17,282 - INFO -  - Total Epoch   Time: 14.15 seconds
+
+2024-11-02 23:21:31,671 - INFO - Epoch 14/100 :Train RMSE = 0.6356 --Valid RMSE = 0.7797 |Train loss = 6.6 million -- validation likelihood 1.8 million
+2024-11-02 23:21:31,671 - INFO -  - User Updates  Time: 5.26 seconds
+2024-11-02 23:21:31,671 - INFO -  - Movie Updates Time: 7.53 seconds
+2024-11-02 23:21:31,671 - INFO -  - Total Epoch   Time: 14.35 seconds
+
+2024-11-02 23:21:46,185 - INFO - Epoch 15/100 :Train RMSE = 0.6353 --Valid RMSE = 0.7796 |Train loss = 6.6 million -- validation likelihood 1.8 million
+2024-11-02 23:21:46,185 - INFO -  - User Updates  Time: 5.38 seconds
+2024-11-02 23:21:46,185 - INFO -  - Movie Updates Time: 7.50 seconds
+2024-11-02 23:21:46,192 - INFO -  - Total Epoch   Time: 14.48 seconds
+
